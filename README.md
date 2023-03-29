@@ -5,6 +5,8 @@
 ## About the project
 A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these.
 
+This Project was a practice for the Practical Statictics part of the Nanodegree program.
+
 For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 In the 1st part of the project by correctly preparing the dataset and removing the duplicates and bad records. \
@@ -14,3 +16,6 @@ Correct analysis was done with the interaction between variables in Part 3.
 Part 1 - Probability.\
 Part 2 - A/B Test.\
 Part 3 - Regression.
+
+## The Dataset
+You can find the dataset which I used on this link [Dataset](https://video.udacity-data.com/topher/2017/December/5a32c9b4_analyzeabtestresults-2/analyzeabtestresults-2.zip).

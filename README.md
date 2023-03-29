@@ -11,6 +11,6 @@ In the 1st part of the project by correctly preparing the dataset and removing t
 Very well done in the 2nd part as well by interpreting the simulation and performing the z-test correctly. \
 Correct analysis was done with the interaction between variables in Part 3.
 
-Part 1 - Probability.
-Part 2 - A/B Test.
-Part 3 - Regression.
+Part 1 - Probability.\
+Part 2 - A/B Test.\
+Part 3 - Regression.\

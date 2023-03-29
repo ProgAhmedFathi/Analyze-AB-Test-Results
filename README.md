@@ -1,5 +1,5 @@
 # Analyze A/B Test Results
-#### The 3rd project in the [egFWD scholarship](https://egfwd.com) for Data Analysis Nanodegree Program from Udacity.
+#### 3rd project in the [egFWD scholarship](https://egfwd.com) for Data Analysis Nanodegree Program from Udacity.
 <ins>These projects REVIEWED by Udacity reviewers (real persons) according to Project Rubricand, and the projects MUST "meet specifications" or "exceed specifications" in each category in order for my submission to pass.</ins>
 
 ## About the project

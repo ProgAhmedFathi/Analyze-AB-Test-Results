@@ -13,4 +13,4 @@ Correct analysis was done with the interaction between variables in Part 3.
 
 Part 1 - Probability.\
 Part 2 - A/B Test.\
-Part 3 - Regression.\
+Part 3 - Regression.
